@@ -1,3 +1,5 @@
 Consale.Write Line("Salman");
 Console.WriteLine("24-st-071");
 Console.WriteLine(A+B);
+Console.WriteLine(A*B);
+Console.WriteLine(A/B);
