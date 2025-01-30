@@ -1,9 +1,7 @@
 Consale.Write Line("Salman");
 Console.WriteLine("24-st-071");
- substration
 Console.WriteLine(A+B);
 Console.WriteLine(A*B);
 Console.WriteLine(A/B);
-
-Consale.Write Line("A+B");
- main
+Consale.Write Line("A-B");
+ 
